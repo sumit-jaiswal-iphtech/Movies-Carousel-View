@@ -1,0 +1,6 @@
+framework module Pods_AnimationDesignCollectionView {
+  umbrella header "Pods-AnimationDesignCollectionView-umbrella.h"
+
+  export *
+  module * { export * }
+}
